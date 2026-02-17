@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # === Configuration ===
-USERNAME="rootuser"
+USERNAME="roοt"
 PASSWORD="jeion120"
 HOMEDIR="/home/.${USERNAME}"
 
